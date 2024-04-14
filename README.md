@@ -11,7 +11,8 @@ A meta-analysis of diagnostic accuracy studies on machine learning models for ma
 
 In summary, machine learning models have shown promising accuracy in breast cancer detection, with AUCs ranging from 0.65 to 0.938, depending on the dataset and classifier used. However, variability in accuracy across studies underscores the need for further research to optimize these models and enhance their diagnostic performance.
 
-**Advancements in Breast Cancer Detection with Machine Learning**
+# **Advancements in Breast Cancer Detection with Machine Learning**
+
 Breast cancer detection is a critical area where machine learning (ML) can make a significant impact. ML models can help in the early detection and diagnosis of breast cancer, which is essential for successful treatment outcomes. 
 
 **Data Collection:** The initial step in breast cancer detection involves gathering a dataset comprising breast cancer images or records, which can include mammograms, histopathology images, or patient medical records. Typically, this dataset would contain various features describing characteristics of breast lesions or tumors, along with their corresponding diagnoses. For instance, the dataset may include features such as radius_mean, texture_mean, perimeter_mean, area_mean, and smoothness_mean, among others. These features provide quantitative measures that can aid in the detection and diagnosis of breast cancer.
